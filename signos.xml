@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+
+<signos>
+
+<signo>
+
+<dataInicio>21/03</dataInicio>
+
+<dataFim>20/04</dataFim>
+
+<signoNome>Áries</signoNome>
+
+<descricao>O signo de Áries é representado pelo carneiro, o animal que usa a própria cabeça como arma com bravura. Aqui, então, vence o líder, aquele que tem a cabeça mais dura.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
+
+<signoNome>Touro</signoNome>
+
+<descricao>O signo de Touro é graficamente simbolizado pelos cornos do próprio touro, que representa a Lua Crescente com toda a sua fecundidade e fartura. Afinal, esse é o signo</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>21/05</dataInicio>
+
+<dataFim>20/06</dataFim>
+
+<signoNome>Gêmeos</signoNome>
+
+<descricao>O grafismo do signo de Gêmeos, simbolizado pelo algarismo romano II, representa as polaridades existentes e associadas a esse signo… Dia e noite, luz e sombra, alegria e tristeza.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>21/06</dataInicio>
+
+<dataFim>22/07</dataFim>
+
+<signoNome>Câncer</signoNome>
+
+<descricao>O signo de Câncer é o caranguejo que representa a experiência de viver em dois mundos… Na terra, a estabilidade do mundo físico; e na água, o universo psíquico.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>23/07</dataInicio>
+
+<dataFim>22/08</dataFim>
+
+<signoNome>Leão</signoNome>
+
+<descricao>O simbolismo do signo de Leão exalta a exuberância da vida. Reconhecido como “o rei dos animais”, o ar de nobreza e o porte majestoso associados à ferocidade do animal fascinam desde sempre o olhar do homem, despertando tanto admiração e respeito, quanto medo.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>23/08</dataInicio>
+
+<dataFim>22/09</dataFim>
+
+<signoNome>Virgem</signoNome>
+
+<descricao>O signo de Virgem é simbolizado pela virgem Astréia. É também o único do Zodíaco representado por uma mulher e, por isso, trata-se de um universo associado ao feminino, à terra que respeita seu ritmo orgânico, tornando-se assim capaz de produzir os mais variados frutos.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>23/09</dataInicio>
+
+<dataFim>22/10</dataFim>
+
+<signoNome>Libra</signoNome>
+
+<descricao>O signo de Libra é o único do Zodíaco representado por um objeto, a balança, símbolo da justiça e do equilíbrio. As ações librianas são sempre fruto de grandes reflexões, que permitem a análise de todos os lados de uma situação.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>23/10</dataInicio>
+
+<dataFim>21/11</dataFim>
+
+<signoNome>Escorpião</signoNome>
+
+<descricao>Os escorpiões são animais de hábitos noturnos, que se sentem seguros em contato com as sombras. Assim é também a realidade desse signo, cuja maior força é a de levar luz às questões obscuras da alma. Como cirurgiões espirituais, nativos do signo de Escorpião têm a capacidade de acessar as feridas emocionais que pedem por cura e transformação.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>22/11</dataInicio>
+
+<dataFim>21/12</dataFim>
+
+<signoNome>Sagitário</signoNome>
+
+<descricao>O signo de Sagitário é representado pelo centauro, o arqueiro que segue firme na direção das flechas que dispara.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>22/12</dataInicio>
+
+<dataFim>20/01</dataFim>
+
+<signoNome>Capricórnio</signoNome>
+
+<descricao>O signo de Capricórnio é representado pela cabra montanhesa, que sobe a montanha fincando os pés no chão duro rumo ao topo.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>21/01</dataInicio>
+
+<dataFim>19/02</dataFim>
+
+<signoNome>Aquário</signoNome>
+
+<descricao>O signo de Aquário é representado pelo aguadeiro, aquele que serve à humanidade, que rega para fazer crescer.</descricao>
+
+</signo>
+<signo>
+
+<dataInicio>20/02</dataInicio>
+
+<dataFim>20/03</dataFim>
+
+<signoNome>Peixes</signoNome>
+
+<descricao>O signo de Peixes é representado por dois peixes nadando em direções opostas, unidos por um cordão.</descricao>
+
+</signo>
+</signos>
